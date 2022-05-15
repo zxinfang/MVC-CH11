@@ -1,0 +1,31 @@
+﻿@model WebApplication1.ViewModels.ArticleIndexViewModel
+
+@{
+    ViewBag.Title = "文章首頁";
+}
+
+<div id="PopularityListBlock">
+    @Html.Action("ShowPopularity", "Article")
+</div>
+
+<div id="ArticleListBlock">
+    @Html.Action("List", "Article")
+</div>
+
+@if (User.Identity.IsAuthenticated)
+{
+    @Ajax.ActionLink("新增文章", "Create", "Article", null,
+     new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "CreateArticleModal" },
+     new { @class = "btn btn-primary", @data_toggle = "modal", @data_target = "#CreateArticleModal" })
+    <div class="modal fade" id="CreateArticleModal" tabindex="-1" role="dialog" aria-labelledby="CreateArticleModalLabel" aria-hidden="true">
+    </div>
+}
+else
+{
+    <text>要新增文章請先</text>
+    @Html.ActionLink("登入", "Login", "Members")
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("jQuery/Article/ArticleList.js")
+}

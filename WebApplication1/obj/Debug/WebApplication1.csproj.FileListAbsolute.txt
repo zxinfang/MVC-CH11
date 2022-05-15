@@ -1,0 +1,332 @@
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Kaykai\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\WebApplication1.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\csi.exe
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\csi.exe.config
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Console.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\WebGrease.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\zh-Hant\System.Web.Optimization.resources.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\zh-Hant\System.Web.WebPages.resources.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Kaykai\Desktop\MVC範例\ch8\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\ch8 _original\WebApplication1\bin\WebApplication1.dll.config
+D:\ch8 _original\WebApplication1\bin\WebApplication1.dll
+D:\ch8 _original\WebApplication1\bin\WebApplication1.pdb
+D:\ch8 _original\WebApplication1\bin\roslyn\csc.exe
+D:\ch8 _original\WebApplication1\bin\roslyn\csc.exe.config
+D:\ch8 _original\WebApplication1\bin\roslyn\csc.rsp
+D:\ch8 _original\WebApplication1\bin\roslyn\csi.exe
+D:\ch8 _original\WebApplication1\bin\roslyn\csi.exe.config
+D:\ch8 _original\WebApplication1\bin\roslyn\csi.rsp
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ch8 _original\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ch8 _original\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Console.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ch8 _original\WebApplication1\bin\roslyn\vbc.exe
+D:\ch8 _original\WebApplication1\bin\roslyn\vbc.exe.config
+D:\ch8 _original\WebApplication1\bin\roslyn\vbc.rsp
+D:\ch8 _original\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\ch8 _original\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\ch8 _original\WebApplication1\bin\Antlr3.Runtime.dll
+D:\ch8 _original\WebApplication1\bin\jose-jwt.dll
+D:\ch8 _original\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ch8 _original\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\ch8 _original\WebApplication1\bin\Newtonsoft.Json.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.Helpers.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.Mvc.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.Optimization.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.Razor.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.WebPages.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\ch8 _original\WebApplication1\bin\WebGrease.dll
+D:\ch8 _original\WebApplication1\bin\System.Web.Helpers.xml
+D:\ch8 _original\WebApplication1\bin\System.Web.Mvc.xml
+D:\ch8 _original\WebApplication1\bin\System.Web.Optimization.xml
+D:\ch8 _original\WebApplication1\bin\System.Web.Razor.xml
+D:\ch8 _original\WebApplication1\bin\System.Web.WebPages.xml
+D:\ch8 _original\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\ch8 _original\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\ch8 _original\WebApplication1\bin\Newtonsoft.Json.xml
+D:\ch8 _original\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\ch8 _original\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ch8 _original\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\ch8 _original\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\ch8 _original\WebApplication1\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\ch8 _original\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\ch8 _original\WebApplication1\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\ch8 _original\WebApplication1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\ch8 _original\WebApplication1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\ch8 _original\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\ch8 _original\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\ch8 _original\WebApplication1\obj\Debug\WebApplication1.dll
+D:\ch8 _original\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\MVC\ch11\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\MVC\ch11\WebApplication1\obj\Debug\WebApplication1.dll
+D:\MVC\ch11\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\MVC\ch11\WebApplication1\bin\WebApplication1.dll.config
+D:\MVC\ch11\WebApplication1\bin\WebApplication1.dll
+D:\MVC\ch11\WebApplication1\bin\WebApplication1.pdb
+D:\MVC\ch11\WebApplication1\bin\roslyn\csc.exe
+D:\MVC\ch11\WebApplication1\bin\roslyn\csc.exe.config
+D:\MVC\ch11\WebApplication1\bin\roslyn\csc.rsp
+D:\MVC\ch11\WebApplication1\bin\roslyn\csi.exe
+D:\MVC\ch11\WebApplication1\bin\roslyn\csi.exe.config
+D:\MVC\ch11\WebApplication1\bin\roslyn\csi.rsp
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MVC\ch11\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Console.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.IO.Pipes.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Security.AccessControl.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Security.Claims.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MVC\ch11\WebApplication1\bin\roslyn\vbc.exe
+D:\MVC\ch11\WebApplication1\bin\roslyn\vbc.exe.config
+D:\MVC\ch11\WebApplication1\bin\roslyn\vbc.rsp
+D:\MVC\ch11\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\MVC\ch11\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\MVC\ch11\WebApplication1\bin\Antlr3.Runtime.dll
+D:\MVC\ch11\WebApplication1\bin\jose-jwt.dll
+D:\MVC\ch11\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MVC\ch11\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC\ch11\WebApplication1\bin\Newtonsoft.Json.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.Helpers.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.Mvc.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.Optimization.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.Razor.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.WebPages.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\MVC\ch11\WebApplication1\bin\WebGrease.dll
+D:\MVC\ch11\WebApplication1\bin\System.Web.Helpers.xml
+D:\MVC\ch11\WebApplication1\bin\System.Web.Mvc.xml
+D:\MVC\ch11\WebApplication1\bin\System.Web.Optimization.xml
+D:\MVC\ch11\WebApplication1\bin\System.Web.Razor.xml
+D:\MVC\ch11\WebApplication1\bin\System.Web.WebPages.xml
+D:\MVC\ch11\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\MVC\ch11\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\MVC\ch11\WebApplication1\bin\Newtonsoft.Json.xml
+D:\MVC\ch11\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\MVC\ch11\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MVC\ch11\WebApplication1\bin\zh-Hant\System.Web.Helpers.resources.dll
+D:\MVC\ch11\WebApplication1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\MVC\ch11\WebApplication1\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\MVC\ch11\WebApplication1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\MVC\ch11\WebApplication1\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\MVC\ch11\WebApplication1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\MVC\ch11\WebApplication1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\MVC\ch11\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete

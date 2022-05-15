@@ -1,0 +1,18 @@
+﻿@model WebApplication1.ViewModels.GuestbooksViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@Html.AntiForgeryToken()
+
+<div id="CreateData">
+    @Html.Action("Create")
+</div>
+
+@Html.Action("GetDataList") 
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

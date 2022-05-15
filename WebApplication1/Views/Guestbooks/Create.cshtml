@@ -1,0 +1,20 @@
+﻿@model WebApplication1.Models.Guestbooks
+
+
+@using (Html.BeginForm("Create", "Guestbooks"))
+{
+    <h3>新增留言</h3>
+    <table>
+        <tr>
+            <td>
+                @Html.LabelFor(model => model.Content)
+            </td>
+            <td>
+                @Html.TextBoxFor(model => model.Content)
+                @Html.ValidationMessageFor(model => model.Content)
+            </td>
+        </tr>
+    </table>
+    <input type="submit" value="新增留言" />
+}
+

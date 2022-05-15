@@ -1,0 +1,62 @@
+﻿@model WebApplication1.ViewModels.ArticleIndexViewModel
+
+@{
+    ViewBag.Title = "ShowPopularity";
+}
+
+@{ int rank = 1;}
+
+<div class="page-header">
+    <h1>人氣文章列表</h1>
+</div>
+<div class="table-responsive">
+    <div class="table-responsive">
+        <div class="table table-hover">
+            <table>
+                @if (!Model.DataList.Count.Equals(0))
+                {
+                    <thead>
+                        <tr>
+                            <th class="text-center">
+                                排名
+                            </th>
+                            <th class="text-center">
+                                @Html.LabelFor(model => model.DataList[0].Title)
+                            </th>
+                            <th class="text-center">
+                                @Html.LabelFor(model => model.DataList[0].Watch)
+                            </th>
+                        </tr>
+                    </thead>
+                    foreach (var item in Model.DataList)
+                    {
+                        <tr>
+                            <td class="text-center">
+                                @rank
+                                @{ rank++;}
+                            </td>
+                            <td class="text-center">
+                                @Html.ActionLink(item.Title, "Article", new { A_Id = item.A_Id })
+                            </td>
+                            <td class="text-right">
+                                @item.Watch
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="4">
+                            尚未有文章
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

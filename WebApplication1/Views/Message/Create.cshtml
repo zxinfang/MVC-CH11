@@ -1,0 +1,22 @@
+﻿@model WebApplication1.Models.Message
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Ajax.BeginForm("Add","Message",new { A_Id = ViewData["A_Id"]},new AjaxOptions { InsertionMode = InsertionMode.Replace,UpdateTargetId="MessageList"}))
+{
+   <table>
+       <tr>
+           <td>
+               @Html.TextBoxFor(model => model.Content, new { @class = "form-control"})
+               @Html.ValidationMessageFor(model => model.Content)
+           </td>
+           <td>
+               <input id="createMessage" class="btn btn-primary" type="submit" value="留言"/>
+           </td>
+       </tr>
+   </table>
+}

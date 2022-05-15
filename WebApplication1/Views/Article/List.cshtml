@@ -1,0 +1,99 @@
+﻿@model WebApplication1.ViewModels.ArticleIndexViewModel
+
+@{
+    ViewBag.Title = "List";
+}
+
+<div id="ArticleList" class="table-responsive">
+    <div class="page-header">
+        <h1>文章列表</h1>
+    </div>
+    @using (Ajax.BeginForm("List", "Article",new { Account =Model.Account}, new AjaxOptions{ UpdateTargetId = "ArticleListBlock", InsertionMode = InsertionMode.Replace},null) )
+    {
+        <div class="form-group">
+            <div class="col-xs-2 col-md-3 input-group">
+                @Html.TextBoxFor(model => model.Search, new { @class = "form-control" })
+                <div class="input-group-btn">
+                    <input class="btn btn-primary" type="submit" value="搜尋" />
+                </div>
+            </div>            
+        </div>
+    }
+    <table class="table table-hover">
+        @if (!Model.DataList.Count.Equals(0))
+        {
+            <thead>
+                <tr>
+                    <th class="text-center">
+                        @Html.LabelFor(model => model.DataList[0].Title)
+                    </th>
+                    <th class="text-center">
+                        @Html.LabelFor(model => model.DataList[0].CreateTime)
+                    </th>
+                    <th class="text-center">
+                        @Html.LabelFor(model => model.DataList[0].Watch)
+                    </th>
+                </tr>
+            </thead>
+            foreach(var item in Model.DataList)
+            {
+                <tr>
+                    <td class="text-center">
+                        @Html.ActionLink(item.Title,"Article",new { A_Id =item.A_Id})
+                    </td>
+                      <td class="text-center">
+                        @item.CreateTime
+                    </td>
+                    <td class="text-right">
+                        @item.Watch
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">
+                    尚未有文章
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="col-xs-12 text-center">
+        <ul class="pagination">
+            <li class ="@((Model.Paging.NowPage > 1) ? "" : "disabled")">
+                @Ajax.ActionLink("<<", "List", new { Account = Model.Account, Search = Model.Search, Page = 1 }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ArticleListBlock" })
+            </li>
+            <li class ="@((Model.Paging.NowPage > 1) ? "" : "disabled")">
+                @Ajax.ActionLink("<", "List", new { Account = Model.Account, Search = Model.Search, Page = Model.Paging.NowPage - 1 }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ArticleListBlock" })
+            </li>
+            @for (var page = (Model.Paging.NowPage - 5); page < (Model.Paging.NowPage + 5); page++)
+            {
+                if ((page > 0) && (page <= Model.Paging.MaxPage))
+                {
+                    if (page == Model.Paging.NowPage)
+                    {
+                        <li class="active">
+                            <a href="#">@page</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            @Ajax.ActionLink(page.ToString(), "List", new { Account = Model.Account, Search = Model.Search, Page = page }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ArticleListBlock" })
+                        </li>
+                    }
+                }
+            }
+            <li class ="@((Model.Paging.NowPage < Model.Paging.MaxPage) ? "" : "disabled")">
+                @Ajax.ActionLink(">", "List", new { Page = Model.Paging.NowPage + 1 }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ArticleListBlock" })
+            </li>
+            <li class ="@((Model.Paging.NowPage < Model.Paging.MaxPage) ? "" : "disabled")">
+                @Ajax.ActionLink(">>", "List",  new { Account = Model.Account, Search = Model.Search, Page = Model.Paging.MaxPage }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "ArticleListBlock" })
+            </li>
+        </ul>
+    </div>
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

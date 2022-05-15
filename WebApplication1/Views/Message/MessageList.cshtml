@@ -1,0 +1,110 @@
+﻿@model WebApplication1.ViewModels.MessageViewModel
+
+@{
+    ViewBag.Title = "MessageList";
+}
+
+<div id="MessageList">
+    <h2>留言區</h2>
+    <table>
+        @if (!Model.DataList.Count.Equals(0))
+        {
+            foreach (var item in Model.DataList)
+            {
+                <tr>
+                    <td>
+                        @Html.LabelFor(model => model.DataList[0].Account)
+                    </td>
+                    <td>
+                        @item.Account
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.LabelFor(model => model.DataList[0].Content)
+                    </td>
+                    <td colspan="3">
+                        @item.Content
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.LabelFor(model => model.DataList[0].CreateTime)
+                    </td>
+                    <td>
+                        @item.CreateTime
+                    </td>
+                </tr>
+                if (User.Identity.IsAuthenticated)
+                {
+                    if (User.Identity.Name == item.Account)
+                    {
+                        <tr>
+                            <td id="EditMessageBlock" colspan="2">
+                                <button class="editMessage btn btn-primary">修改留言</button>
+                                <button class="btn btn-danger" onclick="location.href = '@Url.Action("DeleteMessage","Message"
+                                 ,new { M_Id = item.M_Id, A_Id = item.A_Id})';return false;">
+                                    刪除留言
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="2">
+                                非此則留言者不可進行修改、刪除等動作
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">
+                    本篇文章尚未有人留言
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="col-xs-12 text-center">
+        <ul class="pagination">
+            <li class="@((Model.Paging.NowPage>1) ? "":"disabled")">
+                @Ajax.ActionLink("<<", "MessageList", new { A_Id = Model.A_Id, Page = 1 },
+                    new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "DataList" })
+            </li>
+            <li class="@((Model.Paging.NowPage>1)?"":"disabled")">
+                @Ajax.ActionLink("<", "MessageList", new { A_Id = Model.A_Id, Page = Model.Paging.NowPage - 1 },
+                    new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "DataList" })
+            </li>
+            @for (var page = (Model.Paging.NowPage - 5); page < (Model.Paging.NowPage + 5); page++)
+            {
+                if ((page > 0) && page <= Model.Paging.MaxPage)
+                {
+                    if (page == Model.Paging.NowPage)
+                    {
+                        <li class="active">
+                            <a href="#">@page</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li>
+                            @Ajax.ActionLink(page.ToString(), "MessageList", new { A_Id = Model.A_Id, Page = page }, new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "DataList" })
+                        </li>
+                    }
+                }
+            }
+            <li class="@((Model.Paging.NowPage<Model.Paging.MaxPage) ? "":"disabled")">
+                @Ajax.ActionLink(">", "MessageList", new { A_Id = Model.A_Id, Page = Model.Paging.NowPage + 1 },
+                    new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "DataList" })
+            </li>
+            <li class="@((Model.Paging.NowPage<Model.Paging.MaxPage)?"":"disabled")">
+                @Ajax.ActionLink(">>", "MessageList", new { A_Id = Model.A_Id, Page = Model.Paging.MaxPage },
+                    new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "DataList" })
+            </li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,62 @@
+﻿@model WebApplication1.ViewModels.BlogViewModel
+
+@{
+    ViewBag.Title = "部落格首頁";
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/jQuery/Article/ArticleList.js")
+}
+<style>
+    #DataList,#from1{
+        margin-top: 20px;
+    }
+    .body-content {
+        width: 100% !important;
+    }
+</style>
+
+<div class="page-header">
+    <h1>
+        @Html.ActionLink(Model.Member.Name + "的部落格", "Index", new { Account = Model.Member.Account })
+    </h1>
+</div>
+<div id="BlogBlock">
+    <div class="col-md-8 col-lg-8 col-sm-8" id="LeftBlock">
+        <div id="PopularityListBlock">
+            @Html.Action("ShowPopularity", "Article", new { Account = Model.Member.Account })
+        </div>
+        <div id="ArticleListBlock">
+            @Html.Action("List", "Article", new { Account = Model.Member.Account })
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-4 col-sm-4" id="RightBlock">
+        <table>
+            <tr>
+                <td>
+                    <img width="200" src="@Html.Encode(Url.Content("~/Upload/Members/" + Model.Member.Image))" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>
+                        @Html.LabelFor(model => model.Member.Name) @Model.Member.Name
+                    </h4>
+                </td>
+            </tr>
+        </table>
+        @if (User.Identity.IsAuthenticated)
+        {
+            @Ajax.ActionLink("新增文章", "Create", "Article", null,
+            new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "CreateArticleModal" },
+            new { @class = "btn btn-primary", @data_toggle = "modal", @data_target = "#CreateArticleModal" })
+            <div class="modal fade" id="CreateArticleModal" tabindex="-1" role="dialog"  aria-hidden="true">
+            </div>
+        }
+        else
+        {
+            <text>要新增文章請先</text>
+            @Html.ActionLink("登入", "Login", "Members")
+        }
+    </div>
+</div>
